@@ -1,0 +1,1 @@
+rm countrings2 *.o
